@@ -1,0 +1,12 @@
+body {
+    padding: 10%;
+}
+
+.section-num-of-players {
+    margin: 10px;
+}
+
+.section-num-of-players .btn-players {
+    margin: 10px;
+    font-size: xx-large;
+}
