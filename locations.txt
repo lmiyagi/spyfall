@@ -1,0 +1,50 @@
+Aeroporto
+Aquário
+Avião
+Baile Funk
+Balada
+Banco
+Barzinho de Samba
+Biblioteca
+Cadeia
+Casamento
+Cassino
+Cemitério
+Céu
+Cinema
+Cozinha
+Cracolândia
+Cruzeiro
+Delegacia
+Deserto
+Escola
+Estádio de Futebol
+Estação de Trem
+Fábrica de Doces
+Favela
+Fazenda
+Floresta
+Hospital
+Hotel
+Igreja
+Inferno
+Lua
+Metrô
+Mina de Carvão
+Museu de Arte
+Nave Espacial
+Navio Pirata
+Ônibus
+Parque de Diversões
+Piscina
+Posto de Gasolina
+Praia
+Restaurante
+Rodoviária
+Show de Rock
+Submarino
+Supermercado
+Teatro
+Universidade
+Vestiário
+Zoológico

@@ -1,12 +1,27 @@
 body {
-    padding: 10%;
+    padding: 5%;
 }
+
+/* Number of players ---------------------------------------- */
 
 .section-num-of-players {
     margin: 10px;
 }
 
 .section-num-of-players .btn-players {
-    margin: 10px;
     font-size: xx-large;
+    padding-left: 1em;
+    padding-right: 1em;
 }
+
+.section-num-of-players h1 {
+    display: inline;
+}
+
+.section-num-of-players .text-num-of-players {
+    font-size: 6em;
+    display: inline;
+    vertical-align: middle;
+}
+
+/* ---------------------------------------------------------- */
